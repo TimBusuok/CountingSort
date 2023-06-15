@@ -1,5 +1,6 @@
 ﻿const int THREADS_NUM = 4; //число потоков
 const int N = 100000;
+object locker = new object();
 
 
 
@@ -63,10 +64,12 @@ void CountingSortParalell(int[] inputArray, int[] countres, int offset, int star
 {
     for(int i = startPos; i < endPos; i++)
     {
-         countres[inputArray[i] + offset]++;    
+        lock (locker)
+        {
+            countres[inputArray[i] + offset]++;    
+        }   
     }
 }
-
 
 
 void CountingSortExtended(int[] inputArray)
