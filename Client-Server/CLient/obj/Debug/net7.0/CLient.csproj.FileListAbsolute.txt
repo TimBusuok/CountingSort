@@ -1,0 +1,15 @@
+C:\Users\Тимофей\Desktop\ButKemp\CLient\bin\Debug\net7.0\CLient.exe
+C:\Users\Тимофей\Desktop\ButKemp\CLient\bin\Debug\net7.0\CLient.deps.json
+C:\Users\Тимофей\Desktop\ButKemp\CLient\bin\Debug\net7.0\CLient.runtimeconfig.json
+C:\Users\Тимофей\Desktop\ButKemp\CLient\bin\Debug\net7.0\CLient.dll
+C:\Users\Тимофей\Desktop\ButKemp\CLient\bin\Debug\net7.0\CLient.pdb
+C:\Users\Тимофей\Desktop\ButKemp\CLient\obj\Debug\net7.0\CLient.csproj.AssemblyReference.cache
+C:\Users\Тимофей\Desktop\ButKemp\CLient\obj\Debug\net7.0\CLient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимофей\Desktop\ButKemp\CLient\obj\Debug\net7.0\CLient.AssemblyInfoInputs.cache
+C:\Users\Тимофей\Desktop\ButKemp\CLient\obj\Debug\net7.0\CLient.AssemblyInfo.cs
+C:\Users\Тимофей\Desktop\ButKemp\CLient\obj\Debug\net7.0\CLient.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\Desktop\ButKemp\CLient\obj\Debug\net7.0\CLient.dll
+C:\Users\Тимофей\Desktop\ButKemp\CLient\obj\Debug\net7.0\refint\CLient.dll
+C:\Users\Тимофей\Desktop\ButKemp\CLient\obj\Debug\net7.0\CLient.pdb
+C:\Users\Тимофей\Desktop\ButKemp\CLient\obj\Debug\net7.0\CLient.genruntimeconfig.cache
+C:\Users\Тимофей\Desktop\ButKemp\CLient\obj\Debug\net7.0\ref\CLient.dll
